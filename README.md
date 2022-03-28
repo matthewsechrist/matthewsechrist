@@ -9,7 +9,7 @@
 [
 [LinkedIn](https://linkedin.com/in/matthewsechrist/)
 
-# Blog
+## Blog
 Blog](https://blog.matthewsechrist.cloud)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
