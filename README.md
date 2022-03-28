@@ -20,6 +20,7 @@
 - [10 ways to complete the Cloud Resume Challenge as secure as possible 🔒](https://matthewsechrist.hashnode.dev/10-ways-to-complete-the-cloud-resume-challenge-as-secure-as-possible-ckwjj13oq06hbi6s1fkn6hq07)
 <!-- HASHNODE_BLOG:END -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist)](https://github.com/anuraghazra/github-readme-stats)
 
