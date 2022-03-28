@@ -7,7 +7,7 @@
 ## Links
 [Portfolio Website](https://matthewsechrist.cloud) | 
 [Blog](https://blog.matthewsechrist.cloud) | 
-[LinkedIn Profile](https://linkedin.com/in/matthewsechrist/)
+[LinkedIn](https://linkedin.com/in/matthewsechrist/)
 
 ## Projects
 [NextRead](https://matthewsechrist.cloud/nextread.html)
