@@ -9,7 +9,7 @@
 [Blog](https://blog.matthewsechrist.cloud) | 
 [LinkedIn](https://linkedin.com/in/matthewsechrist/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 [NextRead](https://matthewsechrist.cloud/nextread.html)
@@ -23,5 +23,5 @@
 <!-- HASHNODE_BLOG:END -->
 
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
