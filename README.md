@@ -21,5 +21,7 @@
 <!-- HASHNODE_BLOG:END -->
 
 
-
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=tokyonight" 
+/>
 
