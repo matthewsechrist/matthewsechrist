@@ -1,23 +1,13 @@
-# Matthew Sechrist
+![Header Image](https://user-images.githubusercontent.com/80978245/160514543-fb04f797-61c2-4880-a337-498c23ca3547.png)
 
+# Hello there! 
+My name is Matthew Sechrist, I am a software engineer who has a passion for Serverless, DevSecOps and IaC.
 
+Please come find me on at [LinkedIn](https://linkedin.com/in/matthewsechrist/) or my [portfolio site](https://matthewsechrist.cloud).
 
-## Links
-[Portfolio Website](https://matthewsechrist.cloud) | 
-[LinkedIn](https://linkedin.com/in/matthewsechrist/)
-
-
-## Blog <img src="https://user-images.githubusercontent.com/80978245/160512681-1602bb7f-6faa-4c8e-a913-12476e75b28b.png" width="30" height="30" />
-[Blog](https://blog.matthewsechrist.cloud)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
-
-## Projects
-[NextRead](https://matthewsechrist.cloud/nextread.html)
-
-## My Latest Blog Posts 👇
+## Blog
+I write from time to time on my blog my thought process as I complete projects.
+### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [How I created NextRead, an author recommendation web app that finds authors who wrote/are mentioned in book endorsements](https://matthewsechrist.hashnode.dev/how-i-created-nextread-an-author-recommendation-web-app-that-finds-authors-who-wroteare-mentioned-in-book-endorsements-cl0x6v5re07isj6nvemfj1b84)
 - [Flattening the Curve: My thought process building async processing in the Cloud Resume extra credit challenge](https://matthewsechrist.hashnode.dev/flattening-the-curve-my-thought-process-building-async-processing-in-the-cloud-resume-extra-credit-challenge-ckxdph1ce0aay1ts13swpe47j)
@@ -25,7 +15,17 @@
 - [10 ways to complete the Cloud Resume Challenge as secure as possible 🔒](https://matthewsechrist.hashnode.dev/10-ways-to-complete-the-cloud-resume-challenge-as-secure-as-possible-ckwjj13oq06hbi6s1fkn6hq07)
 <!-- HASHNODE_BLOG:END -->
 
+Tools and Technologies 🛠️
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+
+## Projects 
+[NextRead](https://matthewsechrist.cloud/nextread.html) 📚
+
+
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-## Disclaimer
+## Disclaimer ⚠️
 **All repos are for my personal use, they are not affliated with my employer NIWC Atlantic/The Department of Defense in any way.** 
