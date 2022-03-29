@@ -1,8 +1,6 @@
 # Matthew Sechrist
 
-## Disclaimer
 
-**All repos are for my personal use, they are not affliated with my employer NIWC Atlantic/The Department of Defense in any way.** 
 
 ## Links
 [Portfolio Website](https://matthewsechrist.cloud) | 
@@ -26,6 +24,7 @@
 - [10 ways to complete the Cloud Resume Challenge as secure as possible 🔒](https://matthewsechrist.hashnode.dev/10-ways-to-complete-the-cloud-resume-challenge-as-secure-as-possible-ckwjj13oq06hbi6s1fkn6hq07)
 <!-- HASHNODE_BLOG:END -->
 
-
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+## Disclaimer
+**All repos are for my personal use, they are not affliated with my employer NIWC Atlantic/The Department of Defense in any way.** 
