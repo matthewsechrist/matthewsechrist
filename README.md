@@ -7,7 +7,7 @@
 [LinkedIn](https://linkedin.com/in/matthewsechrist/)
 
 
-## Blog <img src="https://user-images.githubusercontent.com/80978245/160512681-1602bb7f-6faa-4c8e-a913-12476e75b28b.png" width="100" height="100" />
+## Blog <img src="https://user-images.githubusercontent.com/80978245/160512681-1602bb7f-6faa-4c8e-a913-12476e75b28b.png" width="30" height="30" />
 [Blog](https://blog.matthewsechrist.cloud)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
