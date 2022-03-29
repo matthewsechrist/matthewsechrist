@@ -23,8 +23,8 @@ Tools and Technologies 🛠️
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 ## Projects 
-[NextRead](https://matthewsechrist.cloud/nextread.html) 📚 - An author recommendation web app that finds authors who wrote/are mentioned in book endorsements
-[Cloud Resume Project]() ☁️ - Repo for my the front-end of my portfolio site [here](https://github.com/matthewsechrist/cloud-resume-front-end) and the back-end [here](https://github.com/matthewsechrist/cloud-resume-back-end)  
+- [NextRead](https://matthewsechrist.cloud/nextread.html) 📚 - An author recommendation web app that finds authors who wrote/are mentioned in book endorsements
+- [Cloud Resume](https://matthewsechrist.cloud) ☁️ - Repo for my the front-end of my portfolio site [here](https://github.com/matthewsechrist/cloud-resume-front-end) and the back-end [here](https://github.com/matthewsechrist/cloud-resume-back-end)  
 
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
