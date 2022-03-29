@@ -17,7 +17,7 @@ I write from time to time on my blog my thought process as I complete projects.
 <!-- HASHNODE_BLOG:END -->
 
 ## Tools and Technologies 🛠️
-https://img.shields.io/security-headers?ignoreRedirects&url=https%3A%2F%2Fmatthewsechrist.cloud
+[](https://img.shields.io/security-headers?ignoreRedirects&url=https%3A%2F%2Fmatthewsechrist.cloud)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
