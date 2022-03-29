@@ -7,6 +7,7 @@ Please come find me on at [LinkedIn](https://linkedin.com/in/matthewsechrist/) o
 
 ## Blog
 I write from time to time on my blog my thought process as I complete projects.
+
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [How I created NextRead, an author recommendation web app that finds authors who wrote/are mentioned in book endorsements](https://blog.matthewsechrist.cloud/how-i-created-nextread-an-author-recommendation-web-app-that-finds-authors-who-wroteare-mentioned-in-book-endorsements-cl0x6v5re07isj6nvemfj1b84)
@@ -22,7 +23,8 @@ Tools and Technologies 🛠️
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 ## Projects 
-[NextRead](https://matthewsechrist.cloud/nextread.html) 📚
+[NextRead](https://matthewsechrist.cloud/nextread.html) 📚 - An author recommendation web app that finds authors who wrote/are mentioned in book endorsements
+[Cloud Resume Project]() ☁️ - Repo for my the front-end of my portfolio site [here](https://github.com/matthewsechrist/cloud-resume-front-end) and the back-end [here](https://github.com/matthewsechrist/cloud-resume-back-end)  
 
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsechrist&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
