@@ -16,8 +16,7 @@ I write from time to time on my blog my thought process as I complete projects.
 - [10 ways to complete the Cloud Resume Challenge as secure as possible 🔒](https://blog.matthewsechrist.cloud/10-ways-to-complete-the-cloud-resume-challenge-as-secure-as-possible-ckwjj13oq06hbi6s1fkn6hq07)
 <!-- HASHNODE_BLOG:END -->
 
-## Tools and Technologies 🛠️
-[](https://img.shields.io/security-headers?ignoreRedirects&url=https%3A%2F%2Fmatthewsechrist.cloud)
+## Technologies and Languages 🛠️
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsechrist&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
